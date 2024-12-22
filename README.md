@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gefercandesign
 - 👀 I’m interested in design
 - 🌱 I’m currently learning basic java script 
-- 💞️ I’m looking to collaborate on art
 - 📫 How to reach me: gefercandesign.github.io
 - ⚡ Fun fact: I am a designer.
 
